@@ -355,6 +355,7 @@ h2 {
 .menu ul li a {
   color: white;
   font-size: 18px;
+  text-decoration: none;
 }
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:300);
 
@@ -415,7 +416,7 @@ h2 {
 
 .accordion {
   width: 100%;
-  padding: 0 5px;
+  padding: 5px 5px;
   border: 2px solid #6db5ff;
   cursor: pointer;
   border-radius: 50px;
